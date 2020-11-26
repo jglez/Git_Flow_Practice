@@ -17,3 +17,7 @@ This project is designed for one to practice the Git/Github workflow here at Lam
 
 - Steve Rogers
 - Ryan Hamblin
+- Elon Musk
+- Arnold Schwarzenneger
+- Carl Sagan
+- Jorge Gonzalez
